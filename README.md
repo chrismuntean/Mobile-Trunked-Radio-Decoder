@@ -1,4 +1,10 @@
+<div align="center">
+
 # Mobile P25 phase 1 & 2 trunked radio decoder
+
+</div>
+
+<br><br>
 
 ## Current BOM (for my custom install)
 
